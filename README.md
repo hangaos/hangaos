@@ -11,19 +11,8 @@
 
 ┌──┤ WHO AM I ├─────────▰▰▰
 │
-├─▣ DO HOANG ANH aka HANGAOS
+├─▣ ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=15&pause=1000&color=F7F7F7&random=false&width=435&lines=Do+Hoang+Anh)](https://git.io/typing-svg)
 ├─▣ Majoring in software engineering at FPT University
-├─▣ <a href="https://thewhiteh4t.github.io/">thewhiteh4t's Blog</a>
-├─▣ I am mostly available at <a href="https://twc1rcle.com/">The White Circle</a>
-│
-└───────────────────────────────▰▰▰
-
-┌──┤ SOCIAL ├─────────▰▰▰
-│
-├─◈ <a href="https://twitter.com/thewhiteh4t">𝕏</a>
-├─◈ <a href="https://www.youtube.com/c/thewhiteh4t">YouTube</a>
-├─◈ <a href="https://t.me/thewhiteh4t">Telegram</a>
-├─◈ <a href="https://www.linkedin.com/in/lohityapushkar">LinkedIn</a>
 │
 └───────────────────────────────▰▰▰
 
@@ -33,7 +22,7 @@
 ├─◈ CSS
 ├─◈ JavaScript
 ├─◈ Java
-├─◈ Photoshop
 │
 └───────────────────────────────▰▰▰
+
 </pre>
