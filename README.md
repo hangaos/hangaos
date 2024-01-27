@@ -11,18 +11,21 @@
 
 ┌──┤ WHO AM I ├─────────▰▰▰
 │
-├─▣ ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=15&pause=1000&color=F7F7F7&random=false&width=435&lines=Do+Hoang+Anh)](https://git.io/typing-svg)
-├─▣ Majoring in software engineering at FPT University
+├─▣ DO HOANG ANH.
+├─▣ 2003.
+├─▣ Majoring in software engineering at FPT University.
 │
 └───────────────────────────────▰▰▰
 
 ┌──┤ USING DAILY ├───────▰▰▰
 │
-├─◈ HTML
-├─◈ CSS
-├─◈ JavaScript
-├─◈ Java
+├─◈ HTML,
+├─◈ CSS,
+├─◈ JavaScript,
+├─◈ Java.
 │
 └───────────────────────────────▰▰▰
+
+ By hangaos./.
 
 </pre>
